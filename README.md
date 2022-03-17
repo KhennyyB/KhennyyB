@@ -1,6 +1,6 @@
 - 👋 # Hi, I'm Ekene Okoli (💻💖☕)
 - 👀 I’m interested in Programming 💻 
-- 🌱 I’m currently learning Software 💻
+- 🌱 I’m currently learning Software Engineering 💻
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ekene2009) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khennyyofficial) 
