@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khennyyofficial) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/ekene-okoli-93480816b)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;+Web Developer;+Researcher;and+UI/UX Designer!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Web+Developer;Researcher;and+UI/UX+Designer!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 Software engineer, Web developer, Researcher, web3 enthusiast, and UI/UX Designer from Nigeria. 💻💖☕
 
