@@ -1,9 +1,8 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/EkeneOkoli/EkeneOkoli/master/readme_header.png "Header")]
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/EkeneOkoli/EkeneOkoli/master/wave.gif" width="30px">
-
+# My name is Ekene Okoli and I'm a software developer/DevOps engineer 👨‍💻
 - 👀 I’m interested in Programming 💻 
 - 🌱 I’m currently learning Software Engineering 💻
 
