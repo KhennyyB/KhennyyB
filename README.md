@@ -3,7 +3,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # My name is Ekene Okoli
-- I'm a software developer/DevOps engineer 👨‍💻
+- I'm a Software developer/DevOps Engineer 👨‍💻
 - 👀 I’m interested in Programming 💻 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ekene2009) 
