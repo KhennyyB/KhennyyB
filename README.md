@@ -1,4 +1,4 @@
-- 👋 # Hi, I'm Ekene Okoli (💻💖☕)
+# Hi 👋, I'm Ekene Okoli (💻💖☕)
 - 👀 I’m interested in Programming 💻 
 - 🌱 I’m currently learning Software Engineering 💻
 
