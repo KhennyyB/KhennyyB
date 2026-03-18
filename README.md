@@ -7,7 +7,7 @@
 - 👀 I’m interested in Data & Programming 💻 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khennyy__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/ekene-okoli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekene-okoli)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Web+Developer;Researcher;and+UI/UX+Designer!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@ Data Analyst, Software engineer, and Web developer from Nigeria. 💻💖☕
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,excel,python,PowerBi,SQL,css,vim,git,figma,bash,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,python,css,vim,git,figma,bash,vscode&theme=light)
 
 ## 🎧 Spotify Playing
 
