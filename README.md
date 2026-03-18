@@ -11,11 +11,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Web+Developer;Researcher;and+UI/UX+Designer!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-Software engineer, Web developer, Researcher, web3 enthusiast, and UI/UX Designer from Nigeria. 💻💖☕
+Data Analyst, Software engineer, and Web developer from Nigeria. 💻💖☕
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,excel,PowerBi,SQL,css,vim,git,figma,bash,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,excel,python,PowerBi,SQL,css,vim,git,figma,bash,vscode&theme=light)
 
 ## 🎧 Spotify Playing
 
