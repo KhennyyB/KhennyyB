@@ -3,12 +3,11 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # My name is Ekene Okoli
-- I'm a Software developer/DevOps Engineer in view👨‍💻
-- 👀 I’m interested in Programming 💻 
+- I'm a Data Analyst/Frontend Software developer👨‍💻
+- 👀 I’m interested in Data & Programming 💻 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ekene2009) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khennyyofficial) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/ekene-okoli-93480816b)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khennyy__) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/ekene-okoli)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Web+Developer;Researcher;and+UI/UX+Designer!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
