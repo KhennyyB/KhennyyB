@@ -15,7 +15,7 @@ Software engineer, Web developer, Researcher, web3 enthusiast, and UI/UX Designe
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,vim,git,figma,bash,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,excel,PowerBi,SQL,css,vim,git,figma,bash,vscode&theme=light)
 
 ## 🎧 Spotify Playing
 
